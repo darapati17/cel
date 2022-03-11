@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"JAM BUKA - SELURUH TEMPAT INDONESIA",
+  "author":"JAM BUKA",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://jam-buka.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
