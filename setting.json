@@ -1,8 +1,8 @@
 {
-  "name-web":"JAM BUKA - SELURUH TEMPAT INDONESIA",
-  "author":"JAM BUKA",
+  "name-web":"Cerita Lucah Melayu",
+  "author":"Lucah Melayu",
   "remove-comment-html":true,
-  "target":"https://jam-buka.com/",
+  "target":"https://www.ceritakisahlucah.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
