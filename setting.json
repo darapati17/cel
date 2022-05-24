@@ -1,8 +1,8 @@
 {
-  "name-web":"Cerita Lucah Melayu",
+  "name-web":"influencers gone wild",
   "author":"Lucah Melayu",
   "remove-comment-html":true,
-  "target":"https://www.ceritakisahlucah.com/",
+  "target":"https://influencersgonewild.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
